@@ -1,0 +1,44 @@
+h2 {
+  margin: 0;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.ctn-cards {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.card-simple {
+  width: 220px;
+  margin-top: 20px;
+  background: #FBFBFD;
+  box-shadow: 0 0 15px rgb(0 0 0 / 10%);
+  text-align: center;
+}
+
+.card-simple div {
+  padding: 40px;
+}
+
+.card-simple img {
+  width: 80px;
+  height: 80px;
+}
+
+.card-simple h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.card-simple p {
+  margin: 0;
+  font-size: 12px;
+  margin-top: 10px;
+  color: #808080;
+}
